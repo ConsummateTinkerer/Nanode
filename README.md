@@ -1,5 +1,5 @@
 # Nanode Sketches
-## What is a Nanode
+## What is a Nanode?
 
 From the [Project:Nanode](https://wiki.london.hackspace.org.uk/view/Project:Nanode) page:
 >Nanode is an open source Arduino-like board that has in-built web connectivity. It connects to a range of wireless, wired and ethernet interfaces. It allows you to develop web based sensor and control systems - giving you web access to six analogue sensor lines and six digital I/O lines. It costs under £20 as an easy build it yourself kit. Nanode was designed with Hacking in mind.
